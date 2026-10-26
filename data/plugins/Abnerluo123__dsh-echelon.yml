@@ -1,0 +1,6 @@
+url: https://github.com/Abnerluo123/dsh-echelon
+name: Abnerluo123/dsh-echelon
+category: model
+description:
+  en: 'Replaces the model picker with a few user-named tiers; each tier is an ordered chain of real models with retries and automatic failover, and requests are routed by context size and image input while reasoning levels are translated between providers.'
+  zh: '把模型选择器换成几个用户自定义的挡位；每个挡位是一条有序的真实模型链，支持重试与自动降级，并按请求的上下文大小与图片输入选择成员，同时在各供应商之间翻译思考档位。'
